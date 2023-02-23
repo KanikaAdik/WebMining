@@ -1,0 +1,19 @@
+{
+"id": "DATANODE_initial_dataset_7b92a86d-c895-47c3-ad76-9a5358e58a21",
+"config_id": "initial_dataset",
+"scope": "<Scope.GLOBAL: 4>",
+"storage_type": "csv",
+"name": "DATANODE_initial_dataset_7b92a86d-c895-47c3-ad76-9a5358e58a21",
+"parent_id": null,
+"last_edit_date": "2023-02-01T08:55:49.491629",
+"job_ids": [],
+"cacheable": false,
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"path": "dataset.csv",
+"has_header": true,
+"exposed_type": "pandas"
+}
+}

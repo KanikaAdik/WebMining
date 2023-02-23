@@ -1,0 +1,16 @@
+{
+"id": "TASK_predict_ml_7226f70b-2c0f-436b-a0c2-cfc2d0dc212b",
+"parent_id": "PIPELINE_ml_660ae649-d1ac-434d-b085-628824d26aec",
+"config_id": "predict_ml",
+"input_ids": [
+"DATANODE_cleaned_dataset_173774a6-4686-42de-8823-f251c83a2d78",
+"DATANODE_n_predictions_fa116a04-ffc0-464a-b884-e7c5c3dd94d3",
+"DATANODE_day_342d8779-9392-4e56-a14c-b43414f56a6c",
+"DATANODE_max_capacity_8bc12b94-2917-4f4f-8b9f-c8d6000305e9"
+],
+"function_name": "predict_ml",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_predictions_1f3899b8-6ce3-4872-ba79-3cdc405de1a3"
+]
+}

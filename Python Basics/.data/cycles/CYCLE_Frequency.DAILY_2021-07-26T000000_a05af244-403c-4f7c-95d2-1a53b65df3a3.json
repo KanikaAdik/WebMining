@@ -1,0 +1,11 @@
+{
+"id": "CYCLE_Frequency.DAILY_2021-07-26T000000_a05af244-403c-4f7c-95d2-1a53b65df3a3",
+"name": "Frequency.DAILY_2021-07-26T00:00:00",
+"frequency": "<Frequency.DAILY: 1>",
+"properties": {
+"display_name": "2021-07-26T00:00:00"
+},
+"creation_date": "2021-07-26T00:00:00",
+"start_date": "2021-07-26T00:00:00",
+"end_date": "2021-07-26T23:59:59.999999"
+}

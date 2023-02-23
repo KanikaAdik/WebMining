@@ -1,0 +1,52 @@
+Ethan Mollick has a message for the humans and the machines: can't we all just get along?
+
+After all, we are now officially in an A.I. world and we're going to have to share it, reasons the associate professor at the University of Pennsylvania's prestigious Wharton School.
+
+"This was a sudden change, right? There is a lot of good stuff that we are going to have to do differently, but I think we could solve the problems of how we teach people to write in a world with ChatGPT," Mollick told NPR.
+
+Ever since the chatbot ChatGPT launched in November, educators have raised concerns it could facilitate cheating.
+
+Some school districts have banned access to the bot, and not without reason. The artificial intelligence tool from the company OpenAI can compose poetry. It can write computer code. It can maybe even pass an MBA exam.
+
+One Wharton professor recently fed the chatbot the final exam questions for a core MBA course and found that, despite some surprising math errors, he would have given it a B or a B-minus in the class.
+
+And yet, not all educators are shying away from the bot.
+
+This year, Mollick is not only allowing his students to use ChatGPT, they are required to. And he has formally adopted an A.I. policy into his syllabus for the first time.
+
+He teaches classes in entrepreneurship and innovation, and said the early indications were the move was going great.
+
+"The truth is, I probably couldn't have stopped them even if I didn't require it," Mollick said.
+
+This week he ran a session where students were asked to come up with ideas for their class project. Almost everyone had ChatGPT running and were asking it to generate projects, and then they interrogated the bot's ideas with further prompts.
+
+"And the ideas so far are great, partially as a result of that set of interactions," Mollick said.
+
+ Users experimenting with the chatbot are warned before testing the tool that ChatGPT "may occasionally generate incorrect or misleading information."
+/ OpenAI/Screenshot By NPR
+/
+OpenAI/Screenshot By NPR
+Users experimenting with the chatbot are warned before testing the tool that ChatGPT "may occasionally generate incorrect or misleading information."
+He readily admits he alternates between enthusiasm and anxiety about how artificial intelligence can change assessments in the classroom, but he believes educators need to move with the times.
+
+"We taught people how to do math in a world with calculators," he said. Now the challenge is for educators to teach students how the world has changed again, and how they can adapt to that.
+
+Mollick's new policy states that using A.I. is an "emerging skill"; that it can be wrong and students should check its results against other sources; and that they will be responsible for any errors or omissions provided by the tool.
+
+And, perhaps most importantly, students need to acknowledge when and how they have used it.
+
+"Failure to do so is in violation of academic honesty policies," the policy reads.
+
+Mollick isn't the first to try to put guardrails in place for a post-ChatGPT world.
+
+Earlier this month, 22-year-old Princeton student Edward Tian created an app to detect if something had been written by a machine. Named GPTZero, it was so popular that when he launched it, the app crashed from overuse.
+
+"Humans deserve to know when something is written by a human or written by a machine," Tian told NPR of his motivation.
+
+Mollick agrees, but isn't convinced that educators can ever truly stop cheating.
+
+He cites a survey of Stanford students that found many had already used ChatGPT in their final exams, and he points to estimates that thousands of people in places like Kenya are writing essays on behalf of students abroad.
+
+"I think everybody is cheating ... I mean, it's happening. So what I'm asking students to do is just be honest with me," he said. "Tell me what they use ChatGPT for, tell me what they used as prompts to get it to do what they want, and that's all I'm asking from them. We're in a world where this is happening, but now it's just going to be at an even grander scale."
+
+"I don't think human nature changes as a result of ChatGPT. I think capability did."

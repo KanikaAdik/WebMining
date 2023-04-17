@@ -1,0 +1,11 @@
+{
+"id": "PIPELINE_ml_660ae649-d1ac-434d-b085-628824d26aec",
+"parent_id": "PIPELINE_ml_660ae649-d1ac-434d-b085-628824d26aec",
+"config_id": "ml",
+"properties": {},
+"tasks": [
+"TASK_clean_data_46edd733-10da-4734-aeb3-65b2ce549750",
+"TASK_predict_ml_7226f70b-2c0f-436b-a0c2-cfc2d0dc212b"
+],
+"subscribers": []
+}

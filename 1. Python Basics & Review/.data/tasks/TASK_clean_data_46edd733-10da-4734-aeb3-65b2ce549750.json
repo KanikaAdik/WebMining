@@ -1,0 +1,13 @@
+{
+"id": "TASK_clean_data_46edd733-10da-4734-aeb3-65b2ce549750",
+"parent_id": null,
+"config_id": "clean_data",
+"input_ids": [
+"DATANODE_initial_dataset_7b92a86d-c895-47c3-ad76-9a5358e58a21"
+],
+"function_name": "clean_data",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_cleaned_dataset_173774a6-4686-42de-8823-f251c83a2d78"
+]
+}

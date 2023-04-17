@@ -1,0 +1,19 @@
+{
+"id": "DATANODE_predictions_6fca182a-6540-4c4b-85db-6d413f8c6162",
+"config_id": "predictions",
+"scope": "<Scope.PIPELINE: 1>",
+"storage_type": "pickle",
+"name": "DATANODE_predictions_6fca182a-6540-4c4b-85db-6d413f8c6162",
+"parent_id": "PIPELINE_baseline_18c583f0-123e-48c8-9394-a4c6d7e46dd5",
+"last_edit_date": "2023-02-01T08:55:49.727230",
+"job_ids": [
+"JOB_predict_baseline_149ffd4a-7d1b-4bb7-a00f-367ca8441786"
+],
+"cacheable": false,
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"is_generated": true
+}
+}

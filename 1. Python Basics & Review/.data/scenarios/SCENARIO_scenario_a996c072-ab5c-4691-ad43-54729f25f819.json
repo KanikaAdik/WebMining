@@ -1,0 +1,16 @@
+{
+"id": "SCENARIO_scenario_a996c072-ab5c-4691-ad43-54729f25f819",
+"config_id": "scenario",
+"pipelines": [
+"PIPELINE_baseline_18c583f0-123e-48c8-9394-a4c6d7e46dd5",
+"PIPELINE_ml_660ae649-d1ac-434d-b085-628824d26aec"
+],
+"properties": {
+"name": "Scenario (Monday, 26 Jul; 200; 40)"
+},
+"creation_date": "2021-07-26T00:00:00",
+"primary_scenario": true,
+"subscribers": [],
+"tags": [],
+"cycle": "CYCLE_Frequency.DAILY_2021-07-26T000000_a05af244-403c-4f7c-95d2-1a53b65df3a3"
+}

@@ -1,0 +1,17 @@
+{
+"id": "DATANODE_day_342d8779-9392-4e56-a14c-b43414f56a6c",
+"config_id": "day",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_day_342d8779-9392-4e56-a14c-b43414f56a6c",
+"parent_id": "SCENARIO_scenario_a996c072-ab5c-4691-ad43-54729f25f819",
+"last_edit_date": "2023-02-01T08:55:49.579496",
+"job_ids": [],
+"cacheable": false,
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"is_generated": true
+}
+}

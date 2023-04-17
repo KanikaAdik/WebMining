@@ -1,0 +1,16 @@
+{
+"id": "JOB_clean_data_406359cf-3ec0-4864-94c1-7d893facb9d6",
+"task_id": "TASK_clean_data_46edd733-10da-4734-aeb3-65b2ce549750",
+"status": "<Status.SKIPPED: 8>",
+"force": false,
+"submit_id": "SUBMISSION_a3ea9511-a570-45cb-bedf-485229f3088d",
+"creation_date": "2023-02-01T08:55:49.731599",
+"subscribers": [
+{
+"fct_name": "_Scheduler._on_status_change",
+"fct_params": [],
+"fct_module": "taipy.core._scheduler._scheduler"
+}
+],
+"stacktrace": []
+}

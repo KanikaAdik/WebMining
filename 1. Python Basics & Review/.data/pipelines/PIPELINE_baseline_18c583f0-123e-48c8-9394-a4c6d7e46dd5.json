@@ -1,0 +1,11 @@
+{
+"id": "PIPELINE_baseline_18c583f0-123e-48c8-9394-a4c6d7e46dd5",
+"parent_id": "PIPELINE_baseline_18c583f0-123e-48c8-9394-a4c6d7e46dd5",
+"config_id": "baseline",
+"properties": {},
+"tasks": [
+"TASK_clean_data_46edd733-10da-4734-aeb3-65b2ce549750",
+"TASK_predict_baseline_a6284415-4791-433e-98d3-22ee05c3f565"
+],
+"subscribers": []
+}

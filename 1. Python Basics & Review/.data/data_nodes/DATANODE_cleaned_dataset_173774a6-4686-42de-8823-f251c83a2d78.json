@@ -1,0 +1,19 @@
+{
+"id": "DATANODE_cleaned_dataset_173774a6-4686-42de-8823-f251c83a2d78",
+"config_id": "cleaned_dataset",
+"scope": "<Scope.GLOBAL: 4>",
+"storage_type": "pickle",
+"name": "DATANODE_cleaned_dataset_173774a6-4686-42de-8823-f251c83a2d78",
+"parent_id": null,
+"last_edit_date": "2023-02-01T08:55:49.699267",
+"job_ids": [
+"JOB_clean_data_bd965466-82a2-41a5-9de0-ec6f35fcbda4"
+],
+"cacheable": true,
+"validity_days": 1,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"data_node_properties": {
+"is_generated": true
+}
+}
